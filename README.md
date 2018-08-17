@@ -69,7 +69,7 @@ ___
 |GetAndroidVersion()|-|Get Android version.|
 ___
 
-# Demo
+# Sample code
 
 ```
 import mgnUa from 'mgn-ua';
