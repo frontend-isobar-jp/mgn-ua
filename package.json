@@ -1,0 +1,23 @@
+{
+  "name": "mgn-ua",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./src/mgn-ua.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --hot --inline",
+    "build": "webpack --mode production",
+    "build:dev": "webpack --mode development"
+  },
+  "keywords": [
+    "User Agent",
+    "js",
+    "library",
+    "ECMA script",
+    "not jQuery"
+  ],
+  "author": "Dentsu Isobar (https://github.com/frontend-isobar-jp)",
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "dependencies": {}
+}
